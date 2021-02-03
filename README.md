@@ -8,4 +8,4 @@ NeuroStartUp — динамически развивающийся старта�
 
 *Логотип:*
 
-![](https://ibb.co/0hM5K1k)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xJjZYwy/11.png" alt="11" border="0"></a>
